@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ClassToIndexedContainerConverter:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClassToIndexedContainerConverter_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ClassToIndexedContainerConverter/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ClassToIndexedContainerConverter" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Vaadin Server" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
